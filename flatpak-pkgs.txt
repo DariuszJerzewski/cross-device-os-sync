@@ -13,6 +13,7 @@ md.obsidian.Obsidian
 net.lutris.Lutris
 org.darktable.Darktable
 org.equicord.equibop
+org.fedoraproject.MediaWriter
 org.gimp.GIMP
 org.gnu.emacs
 org.libreoffice.LibreOffice
