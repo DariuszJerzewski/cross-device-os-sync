@@ -6,6 +6,7 @@ com.valvesoftware.Steam
 com.vysp3r.ProtonPlus
 dev.zed.Zed
 io.github.antimicrox.antimicrox
+io.github.hkdb.Aerion
 io.podman_desktop.PodmanDesktop
 io.vikunja.Vikunja
 md.obsidian.Obsidian
