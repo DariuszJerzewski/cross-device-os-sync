@@ -17,6 +17,7 @@ org.equicord.equibop
 org.fedoraproject.MediaWriter
 org.gimp.GIMP
 org.gnu.emacs
+org.kde.gwenview
 org.libreoffice.LibreOffice
 org.localsend.localsend_app
 org.qbittorrent.qBittorrent
