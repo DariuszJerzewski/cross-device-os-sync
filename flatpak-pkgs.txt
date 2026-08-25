@@ -9,7 +9,6 @@ dev.zed.Zed
 io.github.antimicrox.antimicrox
 io.github.hkdb.Aerion
 io.podman_desktop.PodmanDesktop
-io.vikunja.Vikunja
 md.obsidian.Obsidian
 net.lutris.Lutris
 org.darktable.Darktable
@@ -17,7 +16,15 @@ org.equicord.equibop
 org.fedoraproject.MediaWriter
 org.gimp.GIMP
 org.gnu.emacs
+org.kde.elisa
 org.kde.gwenview
+org.kde.kcalc
+org.kde.kmahjongg
+org.kde.kmines
+org.kde.kolourpaint
+org.kde.okular
+org.kde.qrca
+org.kde.skanpage
 org.libreoffice.LibreOffice
 org.localsend.localsend_app
 org.qbittorrent.qBittorrent
