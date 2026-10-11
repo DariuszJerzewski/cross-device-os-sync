@@ -11,6 +11,7 @@ io.github.hkdb.Aerion
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.lutris.Lutris
+net.sourceforge.Hugin
 org.darktable.Darktable
 org.equicord.equibop
 org.fedoraproject.MediaWriter
