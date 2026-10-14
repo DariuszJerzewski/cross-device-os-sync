@@ -7,6 +7,7 @@ com.valvesoftware.Steam
 com.vysp3r.ProtonPlus
 dev.zed.Zed
 io.github.antimicrox.antimicrox
+io.github.Duecki1.CalibRaw
 io.github.hkdb.Aerion
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
@@ -29,3 +30,4 @@ org.kde.skanpage
 org.libreoffice.LibreOffice
 org.localsend.localsend_app
 org.qbittorrent.qBittorrent
+org.upscayl.Upscayl
