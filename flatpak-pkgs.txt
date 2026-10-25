@@ -1,5 +1,6 @@
 app.zen_browser.zen
 com.github.wwmm.easyeffects
+com.google.AndroidStudio
 com.heroicgameslauncher.hgl
 com.spotify.Client
 com.super_productivity.SuperProductivity
