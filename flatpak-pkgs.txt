@@ -10,7 +10,6 @@ dev.zed.Zed
 io.github.antimicrox.antimicrox
 io.github.Duecki1.CalibRaw
 io.github.hkdb.Aerion
-io.github.wiiznokes.fan-control
 io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 net.lutris.Lutris
